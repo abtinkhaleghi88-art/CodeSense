@@ -126,4 +126,12 @@ src/
 
 ## License
 
-Private — built with [Lovable](https://lovable.dev).
+This project is publicly available for viewing and learning purposes.
+
+CodeSense is currently under active development and may change frequently as new features, improvements, and experiments are introduced.
+
+At this stage, the codebase is **not considered production-stable** and is maintained primarily as an evolving product and learning project.
+
+Please do not redistribute, commercialize, or heavily reuse the codebase without permission.
+
+© 2026 Abtin Khaleghi. All rights reserved.
